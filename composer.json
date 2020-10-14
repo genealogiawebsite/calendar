@@ -1,24 +1,24 @@
 {
-    "name": "laravel-enso/calendar",
+    "name": "genealogiawebsite/calendar",
     "type": "library",
     "description": "Enso Calendar",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         },
         {
             "name": "Reza Fouladi",
             "email": "raftx24@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         },
         {
             "name": "Mihai Ocneanu",
             "email": "mihai.ocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         }
     ],
@@ -27,20 +27,20 @@
         "events",
         "reminders",
         "laravel",
-        "laravel-enso"
+        "genealogiawebsite"
     ],
-    "homepage": "https://https://github.com/laravel-enso/calendar",
+    "homepage": "https://https://github.com/genealogiawebsite/calendar",
     "require": {
-        "laravel-enso/core": "^6.0",
-        "laravel-enso/enums": "^2.0",
-        "laravel-enso/forms": "^4.0",
-        "laravel-enso/people": "^3.0",
-        "laravel-enso/helpers": "^2.0",
-        "laravel-enso/select": "^4.0",
-        "laravel-enso/permissions": "^4.0",
-        "laravel-enso/track-who": "^2.0",
-        "laravel-enso/rememberable": "^3.0",
-        "laravel-enso/migrator": "^2.0"
+        "genealogiawebsite/core": "^6.0",
+        "genealogiawebsite/enums": "^2.0",
+        "genealogiawebsite/forms": "^4.0",
+        "genealogiawebsite/people": "^3.0",
+        "genealogiawebsite/helpers": "^2.0",
+        "genealogiawebsite/select": "^4.0",
+        "genealogiawebsite/permissions": "^4.0",
+        "genealogiawebsite/track-who": "^2.0",
+        "genealogiawebsite/rememberable": "^3.0",
+        "genealogiawebsite/migrator": "^2.0"
     },
     "autoload": {
         "psr-4": {
